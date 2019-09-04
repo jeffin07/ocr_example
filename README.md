@@ -11,5 +11,12 @@ flask <br/>
 # Usage
 python oce_server.py
 
-# request format
-![](pics/postman)
+# Request format
+![](pics/postman_req.png)
+
+# Response
+![](pics/postman_req.png)
+
+# Test Invoices
+![](pics/test.png)
+![](pics/test2.png)
