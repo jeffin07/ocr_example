@@ -15,7 +15,7 @@ python oce_server.py
 ![](pics/postman_req.png)
 
 # Response
-![](pics/postman_req.png)
+![](pics/postman_res.png)
 
 # Test Invoices
 ![](pics/test.png)
