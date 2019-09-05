@@ -34,9 +34,6 @@ def get_string(img_path):
     # Recognize text with tesseract for python
     result = pytesseract.image_to_string(Image.open(src_path + "/thres.png"))
 
-    # Remove template file
-    #os.remove(temp)
-
     return result
 
 
